@@ -2,16 +2,15 @@
 
 Thanks for your interest in contributing to Bloom! This document will guide you through the process of setting up the project locally and making contributions.
 
-## Table of Contents
+## 📖 Table of Contents
 
-- [Contributing](#contributing)
-  - [Table of Contents](#table-of-contents)
-  - [🌱 Getting Started](#-getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Setting up the development environment](#setting-up-the-development-environment)
-  - [🏃 Running the Project](#-running-the-project)
-  - [🔄 Making Changes](#-making-changes)
-  - [🚀 Submitting a Pull Request](#-submitting-a-pull-request)
++ [📖 Table of Contents](#-table-of-contents)
++ [🌱 Getting Started](#-getting-started)
+  + [Prerequisites](#prerequisites)
+  + [Setting up the development environment](#setting-up-the-development-environment)
++ [🏃 Running the Project](#-running-the-project)
++ [🔄 Making Changes](#-making-changes)
++ [🚀 Submitting a Pull Request](#-submitting-a-pull-request)
 
 ## 🌱 Getting Started
 
