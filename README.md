@@ -4,7 +4,7 @@ Build your vocabulary confidently with Bloom. It's like Anki, but we're focusing
 
 ## 🗺️ Roadmap
 
-See our [Notion roadmap board](https://able-zinc-28f.notion.site/18a9741fc24d8081b645ce4ad27774a4?v=18a9741fc24d80589fdd000cab4787ab) to see our planned features.
+See our planned features on our [Notion roadmap board](https://able-zinc-28f.notion.site/18a9741fc24d8081b645ce4ad27774a4?v=18a9741fc24d80589fdd000cab4787ab).
 
 ## 🔨 Built With
 
