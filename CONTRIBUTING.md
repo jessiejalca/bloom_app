@@ -18,6 +18,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
+Before doing anything else, please take a moment to read the [Contributor Covenant Code of Conduct](./CODE_OF_CONDUCT.md). By contributing to this project, you agree to respect the code and accept the enforcement of it.
+
 Use the [official Flutter docs](https://docs.flutter.dev/get-started/install) to install and set up your Flutter development environment if you haven't already. Currently development is focused on building for macOS.
 
 ### Setting up the development environment
